@@ -1,0 +1,6 @@
+#!/bin/bash
+
+clear
+rm ./program.exe
+cc main.cpp -o program.exe
+./program.exe
